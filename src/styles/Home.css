@@ -1,0 +1,43 @@
+
+.heading{
+    font-size: 49px;
+    font-weight: 700;
+
+}
+.heading-main{
+    font-size: 60px;
+    color: #ffcf03;
+    font-weight: 900;
+}
+.heading-main-effect{
+    color: #ffcf03;
+  font-size: 70px;   
+  font-weight: 700;
+}
+.count{
+    font-size: 33px;
+    font-weight: 600;
+    color: black;
+}
+.mt-main-txt{
+    margin-top: 100px;
+}
+.m-count{
+    margin-top: 50px;
+}
+.text-cen{
+    padding-left: 22%;
+    padding-right: 20%;
+}
+.bg-blue{
+    background-color: #042743;
+}
+.text-pri{  
+    background-color: #042743;
+}
+
+
+
+
+
+
